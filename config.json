@@ -1,0 +1,20 @@
+{
+  "game_window_title": "原神",
+  "expected_width": 1920,
+  "expected_height": 1080,
+  "list_region": {
+    "x": 480,
+    "y": 220,
+    "width": 1200,
+    "height": 760
+  },
+  "ocr_language": "jpn",
+  "similarity_threshold": 0.82,
+  "capture_interval_ms": 700,
+  "settle_frames": 3,
+  "hash_threshold": 2.5,
+  "master_data_path": "master_data/achievements_master.json",
+  "status_data_path": "achievements_status.json",
+  "tessdata_path": "tessdata",
+  "output_directory": "output"
+}

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "opencv": "x64-windows",
+    "tesseract": "x64-windows",
+    "nlohmann-json": "x64-windows"
+  }
+}
